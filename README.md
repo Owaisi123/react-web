@@ -8,7 +8,8 @@ Vite.js — Fast build tool
 React Router — Routing
 Tailwind CSS — Styling
 Axios / Fetch API — API calls (if used)
-📸 Screenshots
+📸 Screenshots![react](https://github.com/user-attachments/assets/b9fd166f-afba-4817-99db-01fcdf9fae48)
+
 Home Page	About Page	Contact Page
 📦 Installation
 bash
