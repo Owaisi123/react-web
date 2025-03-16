@@ -15,7 +15,7 @@ bash
 Copy
 Edit
 # Clone this repo
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/Owaisi123/react-web.git
 
 # Go to project folder
 cd repo-name
